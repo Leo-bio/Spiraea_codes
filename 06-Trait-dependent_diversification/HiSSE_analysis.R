@@ -61,7 +61,7 @@ sampling_proportion <- sampled_species / total_species
 sampling.f <- c(sampling_proportion, sampling_proportion)
 
 # (4) Output tsv file
-output_file <- "D:/Projects/Spiraea/08-Diversification_analysis/SSE_analysis/BiSSE_model_comparison.tsv"
+output_file <- "./06-Trait-dependent_diversification/HiSSE_analysis_output.tsv"
 
 # ----------------------------------------------------------------------------
 # 2. Read tree and trait data
