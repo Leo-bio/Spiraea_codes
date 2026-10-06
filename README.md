@@ -19,5 +19,5 @@ This repository documents the codes for the project: **The evolutionary history 
   - [CLaDS]()
 - [05 Trait evolution]()
   - [Ancestral state reconstruction]()
-- [06 Trait-dependent diversification]()
+- [06 Trait-dependent diversification](https://github.com/Leo-bio/Spiraea_codes/blob/main/06-Trait-dependent_diversification/HiSSE_analysis.md)
 
